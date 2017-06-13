@@ -34127,7 +34127,7 @@ body {
   #card select {
     text-transform: none;
     width: 90%;
-    margin: 5px auto; }
+    margin: 0 auto 5px auto; }
   /* line 25, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
   #card label {
     margin: 10px auto 5px auto; }
