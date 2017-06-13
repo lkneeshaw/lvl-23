@@ -1,0 +1,35 @@
+/* Stylehsheet */
+@import "semantic";
+
+body {
+    background: #111;
+}
+
+#card {
+    margin: 100px auto;
+    width: 400px;
+    
+    #hamilton {
+        margin-bottom: 20px;
+        }
+    
+    select {
+        text-transform: none;
+        width: 90%;
+        margin: 5px auto;
+        }
+    
+    label {
+        margin: 10px auto 5px auto;
+    }
+    
+    input {
+        width: 90%;
+        margin: 0px auto 5px auto;
+    }
+}
+
+.ui .card {
+    min-width: 400px;
+    box-shadow: none;
+}
