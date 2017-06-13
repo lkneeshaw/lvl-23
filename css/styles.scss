@@ -3,11 +3,14 @@
 
 body {
     background: #111;
+    background: linear-gradient(#edb859, #341902);
+    background-attachment: fixed; 
 }
 
 #card {
-    margin: 100px auto;
+    margin: 50px auto;
     width: 400px;
+    padding-bottom: 10px;
     
     #hamilton {
         margin-bottom: 20px;
@@ -26,6 +29,17 @@ body {
     input {
         width: 90%;
         margin: 0px auto 5px auto;
+    }
+    
+    textarea {
+        height: 100px;
+        width: 90%;
+        margin: 10px auto;
+    }
+    
+    button {
+        width: 90%;
+        margin: 0 auto 10px auto;
     }
 }
 

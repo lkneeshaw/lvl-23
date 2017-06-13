@@ -34111,29 +34111,41 @@ html.ios {
 *******************************/
 /* line 4, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
 body {
-  background: #111; }
+  background: #111;
+  background: linear-gradient(#edb859, #341902);
+  background-attachment: fixed; }
 
-/* line 8, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
+/* line 10, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
 #card {
-  margin: 100px auto;
-  width: 400px; }
-  /* line 12, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
+  margin: 50px auto;
+  width: 400px;
+  padding-bottom: 10px; }
+  /* line 15, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
   #card #hamilton {
     margin-bottom: 20px; }
-  /* line 16, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
+  /* line 19, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
   #card select {
     text-transform: none;
     width: 90%;
     margin: 5px auto; }
-  /* line 22, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
+  /* line 25, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
   #card label {
     margin: 10px auto 5px auto; }
-  /* line 26, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
+  /* line 29, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
   #card input {
     width: 90%;
     margin: 0px auto 5px auto; }
+  /* line 34, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
+  #card textarea {
+    height: 100px;
+    width: 90%;
+    margin: 10px auto; }
+  /* line 40, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
+  #card button {
+    width: 90%;
+    margin: 0 auto 10px auto; }
 
-/* line 32, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
+/* line 46, /Users/laurakneeshaw/Desktop/lvl-23/css/styles.scss */
 .ui .card {
   min-width: 400px;
   box-shadow: none; }
