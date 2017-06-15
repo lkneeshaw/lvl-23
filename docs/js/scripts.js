@@ -10446,8 +10446,9 @@ base('Hamilton').select({
     records.forEach(function(record) {
        
       // Check-Check 
-      // console.log('Retrieved', record.get('Name'));
-      // console.log( record.fields.Avatar[0].url ); 
+       console.log('Retrieved', record.get('Name'));
+       console.log( record.fields.Image[0].url ); 
+        console.log(record);
 
       // Display Data
       showHam(record)
