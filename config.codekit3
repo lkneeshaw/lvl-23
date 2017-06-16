@@ -109,6 +109,92 @@
 		"oAP": "\/docs\/html\/scripts.html",
 		"oF": 0
 		},
+	"\/img\/favicons\/android-chrome-192x192.png": {
+		"ft": 32768,
+		"iS": 19553,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/android-chrome-192x192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/android-chrome-384x384.png": {
+		"ft": 32768,
+		"iS": 83959,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/android-chrome-384x384.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/apple-touch-icon.png": {
+		"ft": 32768,
+		"iS": 17245,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/apple-touch-icon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/browserconfig.xml": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/img\/favicons\/browserconfig.xml",
+		"oF": 0
+		},
+	"\/img\/favicons\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 1011,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 1592,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/favicons\/favicon.ico": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/docs\/img\/favicons\/favicon.ico",
+		"oF": 0
+		},
+	"\/img\/favicons\/manifest.json": {
+		"ft": 524288,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/manifest.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"\/img\/favicons\/mstile-150x150.png": {
+		"ft": 32768,
+		"iS": 10207,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/mstile-150x150.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/menu.png": {
 		"ft": 32768,
 		"iS": 598,
@@ -138,7 +224,7 @@
 	"\/js\/jquery.js": {
 		"ft": 64,
 		"mi": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/docs\/js\/jquery.js",
 		"oF": 0,
 		"sC": 0,
@@ -156,7 +242,7 @@
 	"\/js\/semantic.js": {
 		"ft": 64,
 		"mi": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/docs\/js\/semantic.js",
 		"oF": 0,
 		"sC": 0,
@@ -180,7 +266,7 @@
 	"displayValue": "lvl-23",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 519084093
+	"lastBuiltDate": 519278904
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
